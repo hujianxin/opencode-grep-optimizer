@@ -1,0 +1,17 @@
+{
+  "name": "opencode-grep-optimizer",
+  "module": "index.ts",
+  "version": "0.1.0",
+  "type": "module",
+  "private": false,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^24.3.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@opencode-ai/plugin": "^0.5.27"
+  }
+}
